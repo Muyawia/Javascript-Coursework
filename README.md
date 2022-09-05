@@ -4,7 +4,7 @@
 A text generator that will allow the user to create a password with a customisable amount of special, upper and lowercase characters creating a strong, unique and random password.
 
 ## Usage
-This application is deployed on github pages.
+This application is deployed on github pages: https://muyawia.github.io/Javascript-Coursework/
 
 ## TODO:
 * Add styling
