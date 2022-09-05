@@ -9,7 +9,5 @@ This application is deployed on github pages.
 ## TODO:
 * Add styling
 * Flesh HTML out
-* Button functionality 
-* Prompts to allow choice of special, upper and lowercase characters to meet the demands of external log in pages.
 * Verify whether user input was valid
 * Ensure user's reach a minimum level of password security
