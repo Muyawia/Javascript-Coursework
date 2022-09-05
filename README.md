@@ -4,7 +4,7 @@
 A text generator that will allow the user to create a password with a customisable amount of special, upper and lowercase characters creating a strong, unique and random password.
 
 ## Usage
-This application is not deployed live on any website.
+This application is deployed on github pages.
 
 ## TODO:
 * Add styling
